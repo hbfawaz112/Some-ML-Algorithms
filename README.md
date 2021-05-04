@@ -14,4 +14,4 @@ some of them are imlpmented from scratch and some of them using libraries such a
 9- Decision tree classifer using Scikit Learcn <br>
 
 
-# more algorithms is coming
+# more algorithms are coming...
