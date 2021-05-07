@@ -1,3 +1,4 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 # Some-Machine-Learning-Algorithms
 Some Machine Learning Algorithms implemented in python 
 some of them are imlpmented from scratch and some of them using libraries such as scikit-learn
